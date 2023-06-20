@@ -1,0 +1,6 @@
+Patient Name,Client Code,Sample ID,Test Code,Date of Service,Result
+"Lundgren Dolph",123,32,10,06/19/23,Negative
+"Starr Ringo",456,33,11,06/19/23,Positive
+"Bogues Muggsy",567,34,13,06/19/23,Negative
+"Fillmore Millard",456,35,14,06/20/23,Positive
+"Garcia Jerry",456,36,11,06/20/23,Negative
