@@ -1,0 +1,15 @@
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\bin\Debug\net7.0\CSVReaderCLI.exe
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\bin\Debug\net7.0\CSVReaderCLI.deps.json
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\bin\Debug\net7.0\CSVReaderCLI.runtimeconfig.json
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\bin\Debug\net7.0\CSVReaderCLI.dll
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\bin\Debug\net7.0\CSVReaderCLI.pdb
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.csproj.AssemblyReference.cache
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.GeneratedMSBuildEditorConfig.editorconfig
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.AssemblyInfoInputs.cache
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.AssemblyInfo.cs
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.csproj.CoreCompileInputs.cache
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.dll
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\refint\CSVReaderCLI.dll
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.pdb
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\CSVReaderCLI.genruntimeconfig.cache
+c:\DevTools\TestsCSVReader\Proj\CSVReaderCLI\obj\Debug\net7.0\ref\CSVReaderCLI.dll
