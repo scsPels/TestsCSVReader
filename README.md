@@ -10,16 +10,16 @@ expects the Input and Output folders wherever your directory is running from.
 
 
 
- Write a simple, console applica�on using C#.
-Assume the following informa�on:
+ Write a simple, console application using C#.
+Assume the following information:
 • A local directory populated with CSV files.
-• CSV columns: Pa�ent Name, Client Code, Sample ID, Test Code, Date of Service
+• CSV columns: Patient Name, Client Code, Sample ID, Test Code, Date of Service
 • A local output directory
-The applica�on must perform the following ac�ons:
+The application must perform the following actions:
 • Find and read all CSV files in the local directory.
 • Output to a text file a count of how many of each test code were found, by client code.
 • Generate a mock output CSV for each input CSV, with the following columns:
-Pa�ent Name, Client Code, Sample ID, Test Code, Date of Service, Result
-(The result field will be either “Posi�ve” or “Nega�ve”)
-• Log transac�onal steps to a local file
-• Full excep�on handling
+Patient Name, Client Code, Sample ID, Test Code, Date of Service, Result
+(The result field will be either “Positive” or “Negative”)
+• Log transactional steps to a local file
+• Full exception handling
